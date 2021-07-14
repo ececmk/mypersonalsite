@@ -1,0 +1,157 @@
+/*******TAG******/
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+div{
+  display:inline-block;
+  padding:0px;
+  margin:0px;
+
+}
+
+p {
+  letter-spacing: 1.5px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 22px;
+
+}
+
+h1{
+  font-family: 'Tourney', cursive;
+  font-size: 80px;
+  margin-top: 0px;
+  padding-top: 100px;
+
+}
+
+h2 {
+  font-family: 'Tourney', cursive;
+  text-align: center;
+  font-size: 30px;
+
+}
+
+h3 {
+  font-family: 'Tourney', cursive;
+  text-align: center;
+}
+
+h4 {
+  font-family: 'Tourney', cursive;
+  text-align: center;
+
+}
+
+img {
+  height: 250px;
+  width: 250px;
+
+}
+
+hr {
+  border: dotted #E4EFE7 6px;
+  border-bottom: none;
+  width: 4%;
+  margin-top: 10%;
+}
+
+
+
+/*******CLASS******/
+
+.header {
+  background: #E4EFE7;
+  font-family: 'Tourney', cursive;
+  text-align: center;
+  margin: 0px;
+  height: 400px;
+  width: 100%;
+
+}
+
+ .bio {
+   background: #FDFAF6;
+   margin: 0px;
+   text-align: center;
+   padding-top: 5%;
+   padding-bottom: 5%;
+   padding-left: 35%;
+   padding-right: 35%
+
+ }
+
+.skills {
+  background: #FDFAF6;
+  margin: 0px;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+}
+
+.get-in-touch {
+  text-align: center;
+  background: #E4EFE7;
+  padding-left: 25%;
+  padding-right: 25%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+
+}
+
+.coding {
+  float: left;
+  padding-right: 5%;
+
+}
+
+.writing {
+  float: left;
+  padding-right: 5%
+
+}
+
+.proofreading {
+  float: left;
+  padding-right: 5%;
+}
+
+.reading {
+  float: left;
+  padding-right: 5%;
+}
+
+
+.skills-p {
+
+  padding-top: 5%;
+
+}
+
+.contact-me-p {
+
+  padding-bottom: 5%;
+}
+
+.button {
+  background: #FDFAF6;
+  background-image: -webkit-linear-gradient(top, #FDFAF6, #FDFAF6);
+  background-image: -moz-linear-gradient(top, #FDFAF6, #FDFAF6);
+  background-image: -ms-linear-gradient(top, #FDFAF6, #FDFAF6);
+  background-image: -o-linear-gradient(top, #FDFAF6, #FDFAF6);
+  background-image: linear-gradient(to bottom, #FDFAF6, #FDFAF6);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family:'Tourney', cursive;
+  color: black;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.button:hover {
+  background: #FDFAF6;
+  text-decoration: none;
+}
